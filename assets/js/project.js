@@ -11106,7 +11106,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"sizeNPos":{"top":312,"left":114,"width":300,"height":"auto"}}',
+widgetProps:'{"sizeNPos":{"top":312,"left":314,"width":300,"height":"auto"}}',
 parentGroup:'si763',
 retainState:false,
 immo:false,
@@ -11338,7 +11338,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"sizeNPos":{"top":312,"left":350,"width":300,"height":"auto"}}',
+widgetProps:'{"sizeNPos":{"top":312,"left":114,"width":300,"height":"auto"}}',
 parentGroup:'si763',
 retainState:false,
 immo:false,
