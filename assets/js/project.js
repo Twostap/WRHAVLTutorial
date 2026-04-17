@@ -10299,7 +10299,7 @@ t:612
 ]
 ,
 containerType:'simulation-non-responsive',
-widgetProps:'{"visibilityInfo":{"slide-item-clickbox":false,"slide-item-highlight-box":false,"slide-item-comment-box":true,"slide-item-inputfield":true,"slide-item-mouse-pointer":false},"sizeNPos":{"width":1280,"height":720},"groupedItemsVisibility":{"slide-item-clickbox":0,"slide-item-highlight-box":0,"slide-item-comment-box":1,"slide-item-inputfield":1,"slide-item-mouse-pointer":0},"canBeCard":false}',
+widgetProps:'{"visibilityInfo":{"slide-item-clickbox":false,"slide-item-highlight-box":false,"slide-item-comment-box":true,"slide-item-inputfield":true,"slide-item-mouse-pointer":false},"sizeNPos":{"width":1280,"height":720},"groupedItemsVisibility":{"slide-item-clickbox":1,"slide-item-highlight-box":0,"slide-item-comment-box":1,"slide-item-inputfield":1,"slide-item-mouse-pointer":0},"canBeCard":false}',
 option:'',
 padding:{
 left:0,
@@ -10599,6 +10599,23 @@ dn:'si782',
 visible:1,
 effectiveVi:1,
 JSONEffectData:false,
+hms:false,
+hme:false,
+subt:57,
+bc:'#ffffff',
+fe:true,
+fca:1,
+fa:100,
+path:'',
+svg:false,
+sde:false,
+scp:0,
+sc:'#0080ff',
+sw:1,
+ss:0,
+sa:1,
+se:false,
+o:100,
 fa:100,
 vbwr:[99,252,888,276],
 vb:[99,252,888,276]
@@ -10636,7 +10653,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"sizeNPos":{"top":312,"left":114,"width":300,"height":"auto"}}',
+widgetProps:'{"isHighlightBox":true,"isSizePosOverriden":"false","isCaption":"true","currentState":"normal","normal":{"opacity":100,"shapePresetData":{"presetId":"cp_clickbox_shape_solid_style","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"0"}},"sizeNPos":{"top":59,"left":14,"width":300,"height":"auto"}}',
 parentGroup:'si763',
 retainState:false,
 immo:false,
@@ -10868,7 +10885,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"sizeNPos":{"top":312,"left":114,"width":300,"height":"auto"}}',
+widgetProps:'{"isHighlightBox":true,"isSizePosOverriden":"false","isCaption":"true","currentState":"normal","normal":{"opacity":100,"shapePresetData":{"presetId":"cp_clickbox_shape_solid_style","fillEnable":true,"fillType":1,"strokeEnable":true,"shadowEnable":false}},"shapeData":{"type":"rect","attributes":{"rx":"0"}},"sizeNPos":{"top":59,"left":14,"width":300,"height":"auto"}}',
 parentGroup:'si763',
 retainState:false,
 immo:false,
@@ -11167,7 +11184,7 @@ text:''
 }
 ,
 subType:'',
-text:'{"blocks":[{"key":"ah2dc","text":"Test","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":57,"style":"overridden:false"},{"offset":0,"length":57,"style":"opacity:99"},{"offset":0,"length":57,"style":"backgroundColor:unset"},{"offset":0,"length":57,"style":"defaultBackgroundColor:#5EFF67"},{"offset":0,"length":57,"style":"textHighlightEnable:false"},{"offset":0,"length":57,"style":"textOutlineEnable:false"},{"offset":0,"length":57,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"presetId":"text-caption_incorrect","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"ah2dc","text":"Input "type 2 diabetes" in the search box above","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":57,"style":"overridden:false"},{"offset":0,"length":57,"style":"opacity:1"},{"offset":0,"length":57,"style":"backgroundColor:unset"},{"offset":0,"length":57,"style":"defaultBackgroundColor:#5EFF67"},{"offset":0,"length":57,"style":"textHighlightEnable:false"},{"offset":0,"length":57,"style":"textOutlineEnable:false"},{"offset":0,"length":57,"style":"textShadowEnable:false"}],"entityRanges":[],"data":{"presetId":"text-caption_incorrect","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"false"}}],"entityMap":{}}',
 isc:1,
 trin:0,
 trout:0,
