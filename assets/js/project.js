@@ -11106,7 +11106,7 @@ isOverridden:false
 }
 ]
 ,
-widgetProps:'{"sizeNPos":{"top":312,"left":614,"width":300,"height":"auto"}}',
+widgetProps:'{"sizeNPos":{"top":312,"left":114,"width":300,"height":"auto"}}',
 parentGroup:'si763',
 retainState:false,
 immo:false,
